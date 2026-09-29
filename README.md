@@ -64,7 +64,7 @@ Basically: **short-tenured, month-to-month, electronic-check, fiber-optic custom
 
 ### 2.4 Model comparison — why the simplest model won
 
-6-fold... 5-fold CV scores (SMOTE pipeline, train set):
+5-fold CV scores (SMOTE pipeline, train set):
 
 | Model | CV ROC-AUC | CV F1 |
 |---|---|---|
