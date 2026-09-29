@@ -147,7 +147,7 @@ Telco-customer-churn/
 ├── README.md                                    # this file
 ├── requirements.txt                             # pinned packages used in the notebook
 ├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv     # dataset (also copied here)
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv     # dataset
 ├── notebooks/
 │   └── telco-churn-analysis.ipynb               # full EDA + modeling notebook (executed, all outputs saved)
 └── models/
@@ -162,7 +162,7 @@ Telco-customer-churn/
   pip install -r requirements.txt
   jupyter lab notebooks/telco-churn-analysis.ipynb
   ```
-- The dataset lives in `data/` (and in the repo root) — no download step needed. To regenerate everything, run the notebook top to bottom; it rewrites `models/model_pipeline.pkl` as its final cell.
+- The dataset lives in data/ — no download step needed. — no download step needed. To regenerate everything, run the notebook top to bottom; it rewrites `models/model_pipeline.pkl` as its final cell.
 
 ## 7. License
 
