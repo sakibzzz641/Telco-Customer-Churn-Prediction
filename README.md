@@ -146,8 +146,6 @@ Mostly intuitive — with one honest caveat in the notebook: `tenure`/`MonthlyCh
 Telco-customer-churn/
 ├── README.md                                    # this file
 ├── requirements.txt                             # pinned packages used in the notebook
-├── complete-datascience-workflow-en.md          # the end-to-end workflow guide this project follows
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv         # original dataset file
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv     # dataset (also copied here)
 ├── notebooks/
