@@ -173,9 +173,8 @@ Telco-customer-churn/
 
 - Author: **MD. Sakib Al Hasan**
 - Open to discussions about data science, ML model building, and churn/pricing analytics.
-- Email: [sakibzzz641@gmail.com](mailto:sakibzzz641@gmail.com)
-- GitHub: [github.com/sakibzzz641](https://github.com/sakibzzz641)
-- LinkedIn: [linkedin.com/in/sakibzzz641](https://www.linkedin.com/in/sakibzzz641/)
+[![Email](https://img.shields.io/badge/Email-sakibzzz641%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sakibzzz641@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sakibzzz641-181717?logo=github&logoColor=white)](https://github.com/sakibzzz641)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakibzzz641-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibzzz641/)
 
----
 
